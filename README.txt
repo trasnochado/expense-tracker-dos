@@ -1,1 +1,2 @@
 bueno no tengo mucho para poner acá pero es una prueba básica, un archivo para hacer malabares dentro del repo.
+update, tras enquilombarme un toque pude, ya está esto subido a github. Vamos a ver si lo puedo mandar editado. Sé que parte de los problemas vinieron de cambiar el nombre del branch, así que para haber hecho tal cambio está súper bien. Estuve bien en aprender eso.
